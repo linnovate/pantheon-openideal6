@@ -1,0 +1,7 @@
+; $Id$
+name = Pantheon
+description = Main module for API communication and other library functions.
+package = Pantheon
+hidden = TRUE
+core = 6.x
+php = 5.2
